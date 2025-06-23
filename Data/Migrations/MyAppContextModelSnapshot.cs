@@ -103,21 +103,17 @@ namespace Data.Migrations
 
             modelBuilder.Entity("Data.Models.IncidentReport", b =>
                 {
-                    b.HasOne("Data.Models.Agent", "Agent")
+                    b.HasOne("Data.Models.Agent", null)
                         .WithMany("IncidentReports")
                         .HasForeignKey("AgentId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.HasOne("Data.Models.Creature", "Creature")
+                    b.HasOne("Data.Models.Creature", null)
                         .WithMany("IncidentReports")
                         .HasForeignKey("CreatureId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
-
-                    b.Navigation("Agent");
-
-                    b.Navigation("Creature");
                 });
 
             modelBuilder.Entity("Data.Models.Agent", b =>

@@ -1,35 +1,69 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bozhi\\OneDrive\\Documents\\Bozho\\Supernatural Creature Monitoring System\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Supernatural Creature Monitoring System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F64D060-FDE4-4915-86E6-5E20F69ADC77}|Supernatural Creature Monitoring System.csproj|c:\\users\\bozhi\\onedrive\\documents\\bozho\\supernatural creature monitoring system\\creaturespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F64D060-FDE4-4915-86E6-5E20F69ADC77}|Supernatural Creature Monitoring System.csproj|solutionrelative:creaturespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D99C685A-9FC2-4843-A14F-5DE13F65C7DC}|..\\View\\View.csproj|c:\\users\\user\\desktop\\geri\\supernaturalcreaturemonitoringsystem\\view\\display.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F64D060-FDE4-4915-86E6-5E20F69ADC77}|Supernatural Creature Monitoring System.csproj|c:\\users\\bozhi\\onedrive\\documents\\bozho\\supernatural creature monitoring system\\agentspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5F64D060-FDE4-4915-86E6-5E20F69ADC77}|Supernatural Creature Monitoring System.csproj|c:\\users\\user\\desktop\\geri\\supernaturalcreaturemonitoringsystem\\supernatural creature monitoring system\\agentspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F64D060-FDE4-4915-86E6-5E20F69ADC77}|Supernatural Creature Monitoring System.csproj|solutionrelative:agentspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5F64D060-FDE4-4915-86E6-5E20F69ADC77}|Supernatural Creature Monitoring System.csproj|c:\\users\\bozhi\\onedrive\\documents\\bozho\\supernatural creature monitoring system\\incidentreportspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5F64D060-FDE4-4915-86E6-5E20F69ADC77}|Supernatural Creature Monitoring System.csproj|c:\\users\\user\\desktop\\geri\\supernaturalcreaturemonitoringsystem\\supernatural creature monitoring system\\agentspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F64D060-FDE4-4915-86E6-5E20F69ADC77}|Supernatural Creature Monitoring System.csproj|solutionrelative:agentspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Data\\Migrations\\20250623194650_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE09C14-6C97-4A3D-9331-3BB04CD15C36}|..\\Data\\Data.csproj|c:\\users\\user\\desktop\\geri\\supernaturalcreaturemonitoringsystem\\data\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC46CFE-8A54-4D4A-99FF-507F101CEB9A}|..\\Business\\Business.csproj|c:\\users\\user\\desktop\\geri\\supernaturalcreaturemonitoringsystem\\business\\controllers\\incidentreportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC46CFE-8A54-4D4A-99FF-507F101CEB9A}|..\\Business\\Business.csproj|c:\\users\\user\\desktop\\geri\\supernaturalcreaturemonitoringsystem\\business\\controllers\\creaturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC46CFE-8A54-4D4A-99FF-507F101CEB9A}|..\\Business\\Business.csproj|c:\\users\\user\\desktop\\geri\\supernaturalcreaturemonitoringsystem\\business\\controllers\\agentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE09C14-6C97-4A3D-9331-3BB04CD15C36}|..\\Data\\Data.csproj|c:\\users\\user\\desktop\\geri\\supernaturalcreaturemonitoringsystem\\data\\models\\incidentreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE09C14-6C97-4A3D-9331-3BB04CD15C36}|..\\Data\\Data.csproj|c:\\users\\user\\desktop\\geri\\supernaturalcreaturemonitoringsystem\\data\\models\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE09C14-6C97-4A3D-9331-3BB04CD15C36}|..\\Data\\Data.csproj|c:\\users\\user\\desktop\\geri\\supernaturalcreaturemonitoringsystem\\data\\models\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F64D060-FDE4-4915-86E6-5E20F69ADC77}|Supernatural Creature Monitoring System.csproj|c:\\users\\user\\desktop\\geri\\supernaturalcreaturemonitoringsystem\\supernatural creature monitoring system\\creaturespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F64D060-FDE4-4915-86E6-5E20F69ADC77}|Supernatural Creature Monitoring System.csproj|solutionrelative:creaturespage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F64D060-FDE4-4915-86E6-5E20F69ADC77}|Supernatural Creature Monitoring System.csproj|c:\\users\\user\\desktop\\geri\\supernaturalcreaturemonitoringsystem\\supernatural creature monitoring system\\incidentreportspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F64D060-FDE4-4915-86E6-5E20F69ADC77}|Supernatural Creature Monitoring System.csproj|solutionrelative:incidentreportspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEC46CFE-8A54-4D4A-99FF-507F101CEB9A}|..\\Business\\Business.csproj|c:\\users\\bozhi\\onedrive\\documents\\bozho\\business\\controllers\\agentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F64D060-FDE4-4915-86E6-5E20F69ADC77}|Supernatural Creature Monitoring System.csproj|c:\\users\\bozhi\\onedrive\\documents\\bozho\\supernatural creature monitoring system\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5F64D060-FDE4-4915-86E6-5E20F69ADC77}|Supernatural Creature Monitoring System.csproj|c:\\users\\user\\desktop\\geri\\supernaturalcreaturemonitoringsystem\\supernatural creature monitoring system\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5F64D060-FDE4-4915-86E6-5E20F69ADC77}|Supernatural Creature Monitoring System.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EBE09C14-6C97-4A3D-9331-3BB04CD15C36}|..\\Data\\Data.csproj|c:\\users\\bozhi\\onedrive\\documents\\bozho\\data\\models\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F64D060-FDE4-4915-86E6-5E20F69ADC77}|Supernatural Creature Monitoring System.csproj|c:\\users\\bozhi\\onedrive\\documents\\bozho\\supernatural creature monitoring system\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5F64D060-FDE4-4915-86E6-5E20F69ADC77}|Supernatural Creature Monitoring System.csproj|C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Supernatural Creature Monitoring System\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5F64D060-FDE4-4915-86E6-5E20F69ADC77}|Supernatural Creature Monitoring System.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AEC46CFE-8A54-4D4A-99FF-507F101CEB9A}|..\\Business\\Business.csproj|c:\\users\\bozhi\\onedrive\\documents\\bozho\\business\\controllers\\creaturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bozhi\\OneDrive\\Documents\\Bozho\\Data\\Models\\Creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bozhi\\OneDrive\\Documents\\Bozho\\Business\\Controllers\\AgentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bozhi\\OneDrive\\Documents\\Bozho\\Business\\Controllers\\CreatureController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,24 +77,166 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Creature.cs",
-              "DocumentMoniker": "C:\\Users\\bozhi\\OneDrive\\Documents\\Bozho\\Data\\Models\\Creature.cs",
-              "RelativeDocumentMoniker": "..\\Data\\Models\\Creature.cs",
-              "ToolTip": "C:\\Users\\bozhi\\OneDrive\\Documents\\Bozho\\Data\\Models\\Creature.cs",
-              "RelativeToolTip": "..\\Data\\Models\\Creature.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBAAAAATAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AgentsPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Supernatural Creature Monitoring System\\AgentsPage.cs",
+              "RelativeDocumentMoniker": "AgentsPage.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Supernatural Creature Monitoring System\\AgentsPage.cs [Design]",
+              "RelativeToolTip": "AgentsPage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T07:44:59.566Z",
+              "WhenOpened": "2025-06-23T21:12:26.351Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALkTAAAAAAAAAAAAAMYTAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-23T20:08:49.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250623194650_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Data\\Migrations\\20250623194650_Initial.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Migrations\\20250623194650_Initial.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Data\\Migrations\\20250623194650_Initial.cs",
+              "RelativeToolTip": "..\\Data\\Migrations\\20250623194650_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:46:51.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Data\\Configuration.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Configuration.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Data\\Configuration.cs",
+              "RelativeToolTip": "..\\Data\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:43:57.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "IncidentReportController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Business\\Controllers\\IncidentReportController.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Controllers\\IncidentReportController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Business\\Controllers\\IncidentReportController.cs",
+              "RelativeToolTip": "..\\Business\\Controllers\\IncidentReportController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAADwvy8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:17:53.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgentsPage.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Supernatural Creature Monitoring System\\AgentsPage.cs",
+              "RelativeDocumentMoniker": "AgentsPage.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Supernatural Creature Monitoring System\\AgentsPage.cs",
+              "RelativeToolTip": "AgentsPage.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAAAB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T07:57:09.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Display.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\View\\Display.cs",
+              "RelativeDocumentMoniker": "..\\View\\Display.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\View\\Display.cs",
+              "RelativeToolTip": "..\\View\\Display.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAwGcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:16:09.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreatureController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Business\\Controllers\\CreatureController.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Controllers\\CreatureController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Business\\Controllers\\CreatureController.cs",
+              "RelativeToolTip": "..\\Business\\Controllers\\CreatureController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:17:32.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AgentController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Business\\Controllers\\AgentController.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Controllers\\AgentController.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Business\\Controllers\\AgentController.cs",
+              "RelativeToolTip": "..\\Business\\Controllers\\AgentController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:17:33.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IncidentReport.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Data\\Models\\IncidentReport.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Models\\IncidentReport.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Data\\Models\\IncidentReport.cs",
+              "RelativeToolTip": "..\\Data\\Models\\IncidentReport.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA7wCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:17:10.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Creature.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Data\\Models\\Creature.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Models\\Creature.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Data\\Models\\Creature.cs",
+              "RelativeToolTip": "..\\Data\\Models\\Creature.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA9wCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:16:42.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Agent.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Data\\Models\\Agent.cs",
+              "RelativeDocumentMoniker": "..\\Data\\Models\\Agent.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Data\\Models\\Agent.cs",
+              "RelativeToolTip": "..\\Data\\Models\\Agent.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA3wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:16:43.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "MainPage.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\bozhi\\OneDrive\\Documents\\Bozho\\Supernatural Creature Monitoring System\\MainPage.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Supernatural Creature Monitoring System\\MainPage.cs",
               "RelativeDocumentMoniker": "MainPage.cs",
-              "ToolTip": "C:\\Users\\bozhi\\OneDrive\\Documents\\Bozho\\Supernatural Creature Monitoring System\\MainPage.cs [Design]",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Supernatural Creature Monitoring System\\MainPage.cs [Design]",
               "RelativeToolTip": "MainPage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-23T07:02:38.353Z",
@@ -68,24 +244,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 17,
               "Title": "AgentController.cs",
               "DocumentMoniker": "C:\\Users\\bozhi\\OneDrive\\Documents\\Bozho\\Business\\Controllers\\AgentController.cs",
-              "RelativeDocumentMoniker": "..\\Business\\Controllers\\AgentController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\bozhi\\OneDrive\\Documents\\Bozho\\Business\\Controllers\\AgentController.cs",
               "ToolTip": "C:\\Users\\bozhi\\OneDrive\\Documents\\Bozho\\Business\\Controllers\\AgentController.cs",
-              "RelativeToolTip": "..\\Business\\Controllers\\AgentController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAABgAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\bozhi\\OneDrive\\Documents\\Bozho\\Business\\Controllers\\AgentController.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T08:29:48.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T08:29:48.382Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "MainPage.cs",
-              "DocumentMoniker": "C:\\Users\\bozhi\\OneDrive\\Documents\\Bozho\\Supernatural Creature Monitoring System\\MainPage.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Supernatural Creature Monitoring System\\MainPage.cs",
               "RelativeDocumentMoniker": "MainPage.cs",
-              "ToolTip": "C:\\Users\\bozhi\\OneDrive\\Documents\\Bozho\\Supernatural Creature Monitoring System\\MainPage.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Supernatural Creature Monitoring System\\MainPage.cs",
               "RelativeToolTip": "MainPage.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAAwDAAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -94,11 +268,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 13,
               "Title": "IncidentReportsPage.cs",
-              "DocumentMoniker": "C:\\Users\\bozhi\\OneDrive\\Documents\\Bozho\\Supernatural Creature Monitoring System\\IncidentReportsPage.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Supernatural Creature Monitoring System\\IncidentReportsPage.cs",
               "RelativeDocumentMoniker": "IncidentReportsPage.cs",
-              "ToolTip": "C:\\Users\\bozhi\\OneDrive\\Documents\\Bozho\\Supernatural Creature Monitoring System\\IncidentReportsPage.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Supernatural Creature Monitoring System\\IncidentReportsPage.cs",
               "RelativeToolTip": "IncidentReportsPage.cs",
               "ViewState": "AgIAALAAAAAAAAAAAAAjwMsAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,39 +281,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AgentsPage.cs",
-              "DocumentMoniker": "C:\\Users\\bozhi\\OneDrive\\Documents\\Bozho\\Supernatural Creature Monitoring System\\AgentsPage.cs",
-              "RelativeDocumentMoniker": "AgentsPage.cs",
-              "ToolTip": "C:\\Users\\bozhi\\OneDrive\\Documents\\Bozho\\Supernatural Creature Monitoring System\\AgentsPage.cs",
-              "RelativeToolTip": "AgentsPage.cs",
-              "ViewState": "AgIAAKoAAAAAAAAAAAArwLwAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T07:57:09.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
               "Title": "CreaturesPage.cs",
-              "DocumentMoniker": "C:\\Users\\bozhi\\OneDrive\\Documents\\Bozho\\Supernatural Creature Monitoring System\\CreaturesPage.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Supernatural Creature Monitoring System\\CreaturesPage.cs",
               "RelativeDocumentMoniker": "CreaturesPage.cs",
-              "ToolTip": "C:\\Users\\bozhi\\OneDrive\\Documents\\Bozho\\Supernatural Creature Monitoring System\\CreaturesPage.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Supernatural Creature Monitoring System\\CreaturesPage.cs",
               "RelativeToolTip": "CreaturesPage.cs",
-              "ViewState": "AgIAALIAAAAAAAAAAAAuwMEAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAAwMEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T07:55:22.894Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
+              "Title": "Creature.cs",
+              "DocumentMoniker": "C:\\Users\\bozhi\\OneDrive\\Documents\\Bozho\\Data\\Models\\Creature.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\bozhi\\OneDrive\\Documents\\Bozho\\Data\\Models\\Creature.cs",
+              "ToolTip": "C:\\Users\\bozhi\\OneDrive\\Documents\\Bozho\\Data\\Models\\Creature.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\bozhi\\OneDrive\\Documents\\Bozho\\Data\\Models\\Creature.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T07:44:59.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "CreatureController.cs",
               "DocumentMoniker": "C:\\Users\\bozhi\\OneDrive\\Documents\\Bozho\\Business\\Controllers\\CreatureController.cs",
-              "RelativeDocumentMoniker": "..\\Business\\Controllers\\CreatureController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\bozhi\\OneDrive\\Documents\\Bozho\\Business\\Controllers\\CreatureController.cs",
               "ToolTip": "C:\\Users\\bozhi\\OneDrive\\Documents\\Bozho\\Business\\Controllers\\CreatureController.cs",
-              "RelativeToolTip": "..\\Business\\Controllers\\CreatureController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABlAAAAAAAAAA==",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\bozhi\\OneDrive\\Documents\\Bozho\\Business\\Controllers\\CreatureController.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T08:46:19.018Z"
             }

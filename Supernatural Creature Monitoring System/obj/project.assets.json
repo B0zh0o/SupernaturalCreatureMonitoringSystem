@@ -4769,23 +4769,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bozhi\\.nuget\\packages\\": {},
+    "C:\\Users\\user\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bozhi\\OneDrive\\Documents\\Bozho\\Supernatural Creature Monitoring System\\Supernatural Creature Monitoring System.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Supernatural Creature Monitoring System\\Supernatural Creature Monitoring System.csproj",
       "projectName": "Supernatural Creature Monitoring System",
-      "projectPath": "C:\\Users\\bozhi\\OneDrive\\Documents\\Bozho\\Supernatural Creature Monitoring System\\Supernatural Creature Monitoring System.csproj",
-      "packagesPath": "C:\\Users\\bozhi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bozhi\\OneDrive\\Documents\\Bozho\\Supernatural Creature Monitoring System\\obj\\",
+      "projectPath": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Supernatural Creature Monitoring System\\Supernatural Creature Monitoring System.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Supernatural Creature Monitoring System\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\bozhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -4794,21 +4794,20 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net9.0-windows7.0": {
           "targetAlias": "net9.0-windows",
           "projectReferences": {
-            "C:\\Users\\bozhi\\OneDrive\\Documents\\Bozho\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\bozhi\\OneDrive\\Documents\\Bozho\\Business\\Business.csproj"
+            "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Business\\Business.csproj"
             },
-            "C:\\Users\\bozhi\\OneDrive\\Documents\\Bozho\\Data\\Data.csproj": {
-              "projectPath": "C:\\Users\\bozhi\\OneDrive\\Documents\\Bozho\\Data\\Data.csproj"
+            "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Data\\Data.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\Data\\Data.csproj"
             },
-            "C:\\Users\\bozhi\\OneDrive\\Documents\\Bozho\\View\\View.csproj": {
-              "projectPath": "C:\\Users\\bozhi\\OneDrive\\Documents\\Bozho\\View\\View.csproj"
+            "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\View\\View.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\Geri\\SupernaturalCreatureMonitoringSystem\\View\\View.csproj"
             }
           }
         }
@@ -4823,7 +4822,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0-windows7.0": {
@@ -4865,7 +4864,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
